@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any frontend projects**
 
-- 👨‍💻 All of my projects are available at [https://shows_portfolio.netlify.app](https://shows_portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://shows-portfolio.netlify.app](https://shows_portfolio.netlify.app)
 
 - 💬 Ask me about **React, Chakra UI, Framer**
 
