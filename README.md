@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=show108&label=Profile%20views&color=0e75b6&style=flat" alt="show108" /> </p>
 
-<p align="left"> <a href="https://twitter.com/theyorubacoder" target="blank"><img src="https://img.shields.io/twitter-blue/follow/theyorubacoder?logo=twitter&l&style=for-the-badge" alt="theyorubacoder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/theyorubacoder" target="blank"><img src="https://img.shields.io/twitter/follow/theyorubacoder?logo=twitter&l&style=for-the-badge" alt="theyorubacoder" /></a> </p>
 <img align='right' alt='coding' width='400px' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
 
 - 🔭 I’m currently working on [S.A.M.S](lookforwardtoit)
